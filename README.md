@@ -1,6 +1,6 @@
 # stock-scraper
 
-This script scrapes [Bloomberg Markets](https://www.bloomberg.com/markets) for current security prices, appends prices and their corresponding times to a csv file, and sends an email with current security performances to desired recipients.
+This project scrapes [Bloomberg Markets](https://www.bloomberg.com/markets) for current security prices, appends prices and their corresponding times to a csv file, and sends an email with current security performances to desired recipients.
 
 I made this to practice web scraping and using SMTP.
 
